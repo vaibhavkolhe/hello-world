@@ -10,7 +10,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- script: echo Hello, world! This is Vaibhav
+- script: echo Hello, world! This is Vaibhav. I am learning Azure Boards
   displayName: 'Run a one-line script'
 
 - script: |
